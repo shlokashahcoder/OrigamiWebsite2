@@ -1,0 +1,15 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+/*
+.html{
+    background-color: cornflowerblue;
+}*/
+
+.origami{
+    border: solid;
+    padding:20px;
+    margin-top: 20px;
+}
